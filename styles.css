@@ -1,0 +1,60 @@
+table {
+  width: 100%;
+  border-collapse: collapse;
+  margin: 25px 0;
+  font-size: 0.9em;
+  font-family: sans-serif;
+  min-width: 400px;
+  box-shadow: 0 0 20px rgba(0,0,0,0.15);
+}
+
+th, td {
+  padding: 12px 15px;
+}
+
+th {
+  background-color: #009879;
+  color: #ffffff;
+  text-align: center;
+}
+
+tr:nth-of-type(even) {
+  background-color: #f3f3f3;
+}
+
+tr:last-of-type {
+  border-bottom: 2px solid #009879;
+}
+
+path {
+  transition: fill 1s; /* Smooth transition for color change */
+}
+path:hover {
+  fill: rgba(255, 255, 255, 0.398); /* Apply a light white overlay */
+  mix-blend-mode: lighten; /* Ensures the fill color lightens */
+}
+
+polyline {
+  opacity: 1
+}
+polyline:hover {
+  opacity: 1
+}
+dotted {
+  opacity: 0.5
+}
+
+
+.navbar a {
+  color: rgb(204, 71, 71);
+  padding: 12px; 
+}
+
+.navbar a:hover {
+  background-color: #ff6f6f;
+}
+
+hr {
+  height: 2px; 
+  background-color: rgb(0, 0, 0);
+}
