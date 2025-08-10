@@ -30,13 +30,10 @@ Recruiters: this project demonstrates **end-to-end ownership** — from raw data
 ## Website Interface & Visuals
 
 <p align="center">
-  <img src="static/nyc_map.png" alt="NYC Obesity Map" width="450" style="margin-right:10px;">
-  <img src="static/header_screenshot.png" alt="Header Navigation" width="450">
+  <img src="static/nyc_map.png" alt="NYC Obesity Map" width="500">
 </p>
 <p align="center">
-  <em>Macro NYC Map — geographic disparities at a glance</em>  
-  &nbsp;&nbsp;&nbsp;&nbsp;
-  <em>Navigation Header — quick access to macro and borough pages</em>
+  <em>Macro NYC Map — color-coded visualization showing average obesity rates by borough from 2003–2020, allowing quick identification of geographic health disparities.</em>
 </p>
 
 ---
