@@ -42,7 +42,7 @@ Recruiters: this project demonstrates **end-to-end ownership** — from raw data
   <img src="static/manhattan_graph.png" alt="Borough Trend Graph" width="600">
 </p>
 <p align="center">
-  <em>Borough Trend Graph — selected borough highlighted against all others</em>
+  <em>Borough Trend Graph — highlights the selected borough’s obesity trends against the other four, with a dropdown to instantly switch between boroughs.</em>
 </p>
 
 ---
@@ -51,7 +51,7 @@ Recruiters: this project demonstrates **end-to-end ownership** — from raw data
   <img src="static/bronx_table.png" alt="Borough Data Table" width="600">
 </p>
 <p align="center">
-  <em>Borough Data Table — exact yearly percentages with responsive styling</em>
+  <em>Borough Data Table — year-by-year obesity percentages for the selected borough, with a dropdown to view tables for the other four boroughs.</em>
 </p>
 
 ---
